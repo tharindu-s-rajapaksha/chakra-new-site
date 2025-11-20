@@ -41,7 +41,7 @@ Template Name: Chakra Labs - Artificial Intelligence Multipurpose Website HTML T
   --ff-inter-tight: 'Inter Tight', sans-serif;
   /*Color Variable*/
   --primary-black: #02021A;
-  --primary-green: #1D9E43;
+  --primary-blue: #00d9ff;
   --primary-purple: #6E45E9;
   --color-light-black: #0E0F23;
   --color-white: #FFF;
@@ -361,7 +361,7 @@ body::-webkit-scrollbar-thumb {
   width: 100%;
   height: 100%;
   border: 2px solid #040404;
-  border-top: 3px solid var(--primary-green);
+  border-top: 3px solid var(--primary-blue);
   border-radius: 100%;
   position: absolute;
   top: 0;
@@ -741,7 +741,7 @@ body::-webkit-scrollbar-thumb {
 
 .common-btn.bg-green-style {
   color: var(--color-white);
-  background-color: var(--primary-green);
+  background-color: var(--primary-blue);
 }
 
 .common-btn.bg-green-style:hover {
@@ -2521,7 +2521,7 @@ body::-webkit-scrollbar-thumb {
 }
 
 .comments-wrap .single-comments-box:hover .comments-info .reply-btn svg, .comments-wrap .single-comments-box:hover .comments-info .reply-btn i {
-  color: var(--primary-green);
+  color: var(--primary-blue);
 }
 
 /*================================================
@@ -3168,7 +3168,7 @@ body::-webkit-scrollbar-thumb {
 .footer-subscribe.footer-subscribe-two button {
   right: 0;
   height: 100%;
-  color: var(--primary-green);
+  color: var(--primary-blue);
 }
 
 .footer-subscribe.footer-subscribe-two button:hover svg, .footer-subscribe.footer-subscribe-two button:hover i {
@@ -4083,7 +4083,7 @@ body::-webkit-scrollbar-thumb {
 }
 
 .switch-wrapper.switch-wrapper-two .highlighter {
-  border: 1px solid var(--primary-green);
+  border: 1px solid var(--primary-blue);
   background: rgba(29, 158, 67, 0.1);
 }
 
@@ -4098,7 +4098,7 @@ body::-webkit-scrollbar-thumb {
 
 .switch-wrapper.switch-wrapper-two [type="radio"]:checked#monthly ~ label[for="monthly"],
 .switch-wrapper.switch-wrapper-two [type="radio"]:checked#yearly ~ label[for="yearly"] {
-  color: var(--primary-green);
+  color: var(--primary-blue);
 }
 
 .switch-wrapper [type="radio"]:checked#monthly ~ label[for="monthly"]:hover,
@@ -4288,7 +4288,7 @@ body::-webkit-scrollbar-thumb {
 }
 
 .price-box.price-box-white .price-info-details li svg {
-  color: var(--primary-green);
+  color: var(--primary-blue);
 }
 
 .price-box.price-box-white .price-info-details li::before {
@@ -4315,8 +4315,8 @@ body::-webkit-scrollbar-thumb {
 }
 
 .price-box.price-box-white .price-info-btn-wrap .price-info-btn {
-  color: var(--primary-green);
-  border: 1px solid var(--primary-green);
+  color: var(--primary-blue);
+  border: 1px solid var(--primary-blue);
 }
 
 .price-box.price-box-white:hover {
@@ -4330,9 +4330,9 @@ body::-webkit-scrollbar-thumb {
 }
 
 .price-box.price-box-white:hover .price-info-btn-wrap .price-info-btn {
-  border: 1px solid var(--primary-green);
+  border: 1px solid var(--primary-blue);
   color: #fff;
-  background-color: var(--primary-green);
+  background-color: var(--primary-blue);
 }
 
 .price-box.price-box-two {
@@ -5259,8 +5259,8 @@ body::-webkit-scrollbar-thumb {
 
 .showcase-list li.active {
   background: rgba(3, 24, 17, 0.03);
-  color: var(--primary-green);
-  border: 1px solid var(--primary-green);
+  color: var(--primary-blue);
+  border: 1px solid var(--primary-blue);
 }
 
 @media only screen and (max-width: 1399.98px) {
@@ -5337,11 +5337,11 @@ body::-webkit-scrollbar-thumb {
 
 .slider-button-wrap .common-pagination span.swiper-pagination-bullet-active {
   background-color: rgba(29, 158, 67, 0.1);
-  border: 1px solid var(--primary-green);
+  border: 1px solid var(--primary-blue);
 }
 
 .slider-button-wrap .common-pagination span.swiper-pagination-bullet-active::before {
-  background-color: var(--primary-green);
+  background-color: var(--primary-blue);
 }
 
 .slider-button-wrap .slide-btn-prev, .slider-button-wrap .slide-btn-next {
@@ -5984,7 +5984,7 @@ body::-webkit-scrollbar-thumb {
 }
 
 .contact-card-box:hover .contact-card-icon {
-  background: var(--primary-green);
+  background: var(--primary-blue);
 }
 
 .contact-hero {
